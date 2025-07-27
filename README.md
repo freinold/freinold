@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm freinold / Fabian Reinold 👋
 
 - 🏢 I'm an ML Engineer for the Munich City Administration [@it-at-m](https://github.com/it-at-m).
 - 🐍 I'm specialized in enterprise-level Python, Kubernetes/Helm, machine learning, and Generative AI.
